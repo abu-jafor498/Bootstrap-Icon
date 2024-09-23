@@ -1,0 +1,16 @@
+section {
+    margin-top: 50px;
+}
+.icons {
+    width: 500px;
+    margin: 0 auto;
+    
+}
+section i {
+    font-size: 25px;
+    color: blue;
+}
+i:hover{
+    background-color: white;
+    color: black;
+}
